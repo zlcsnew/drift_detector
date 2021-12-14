@@ -24,7 +24,7 @@ Step2-2. cd %DETECTOR_BASE%\CVAE_concept_drift\
 
 Step2-3. python main_process.py
 
-Step2-4. The data set can be specified by modifying the value in common_tools_pack\config.py.
+Step2-4. The data set can be specified by modifying the value in common_tools_pack\config.py. In addition, the mapping between Directory and schemes are shown in map.xlsx.
 
 #### Remark
-The params used in diffderent datasets are shown in the common_tools_pack\config.py. If you have any questions, please feel free to ask zhanglei0511@iie.ac.cn.
+***The params used in diffderent datasets are shown in the common_tools_pack\config.py***. If you have any questions, please feel free to ask zhanglei0511@iie.ac.cn.
