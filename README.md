@@ -12,7 +12,7 @@ The source code of comparison baselines (in section 4.1) and our proposed scheme
 5. tensorflow == 1.15.3
 
 #### Usage
-step1. Unzip the zip file using the password.(i.e., unzip -P password final_detector.zip)
+step1. Unzip the zip file using the *password*.(i.e., unzip -P *password* final_detector.zip)
 
 Step2. Set the DETECTOR_BASE environment variable to the directory where the source code is located. For example, in Windows, we can use the following commands:
 
